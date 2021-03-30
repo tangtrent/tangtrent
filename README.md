@@ -4,7 +4,7 @@
 - 📫 You can reach me at:
   - Email: tangtrent@gmail.com
   - LinkedIn: https://www.linkedin.com/in/trent-tang/
-# Here are some technologies I work with:
+### Here are some technologies I work with:
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
 ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
