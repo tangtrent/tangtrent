@@ -1,5 +1,5 @@
 # :relaxed: Hi, my name is Trent Tang
-- 👀 I'm interested in working in front-end positions
+- 👀 I'm interested in working in front-end positions (although I have experience in the full stack)
 - 🌱 Currently creating an e-commerce site for a lash extension company
 - 📫 You can reach me at:
   - Email: tangtrent@gmail.com
