@@ -1,5 +1,5 @@
 # :relaxed: Hi, my name is Trent Tang
-- 👀 I'm looking for work in full-stack positions
+- 👀 I'm interested in working in front-end positions
 - 🌱 Currently creating an e-commerce site for a lash extension company
 - 📫 You can reach me at:
   - Email: tangtrent@gmail.com
