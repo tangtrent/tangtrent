@@ -1,5 +1,5 @@
 # :relaxed: Hi, my name is Trent Tang
-- 👀 I'm interested in working in front-end positions (although I have experience in the full stack)
+- 👀 I'm interested in working in front-end positions
 - 📫 You can reach me at:
   - Email: tangtrent@gmail.com
   - LinkedIn: https://www.linkedin.com/in/trent-tang/
